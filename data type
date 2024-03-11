@@ -1,0 +1,49 @@
+string 
+
+ 
+
+1.print(type(0xff)) 
+
+2.what is mutable and immutable 
+
+3.list the core data types in python 
+
+4.do we have character data type in python 
+
+5.what are the ways to access element in string 
+
+6.write a program to insert a character in the string (position 3) 
+
+7.wap to delete character from string(position 5) 
+
+8.''and 'python' 
+
+9.''or 'python' 
+
+    a='Vector India' 
+
+new=a.swapcase() 
+
+Print(new) 
+
+11.a='aa1232222bg' 
+
+     Print(a.count) 
+
+12. st='v23bece' 
+
+print(st.isdigit) 
+
+13. name='city of india' 
+
+b=name[::2] 
+
+c=name[::-1] 
+
+d=name[-1:-6] 
+
+14.comp='infobell' 
+
+      Print(comp[6:2]) 
+
+15.print(comp[2:200]) 
