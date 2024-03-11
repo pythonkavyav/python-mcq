@@ -1,0 +1,99 @@
+1. 
+
+>>> print('bangalore','chennai',sep='**') 
+
+ 
+
+ 
+
+2. 
+
+>>> print('hello,bye',end='\%') 
+
+ 
+
+ 
+
+3. 
+
+>>> print(sep='$$',10,20) 
+
+ 
+
+ 
+
+4.write a program to scan student name,student id,place ,gender from the user and display the data. 
+
+ 
+
+5.write a program to scan 5 subject marks and display sum and average of marks from user I/p. 
+
+ 
+
+6. 
+
+>>> print(sep='$$',10,20) 
+
+ 
+
+ 
+
+7. 
+
+>>> print(1);print(2) 
+
+ 
+
+8. 
+
+>>> print('ab'*3) 
+
+ 
+
+9. 
+
+>>> a='hello' 
+
+>>> print(f'my name is {a}') 
+
+ 
+
+ 
+
+10. 
+
+>>> b=20 
+
+>>> print("value of b is %d"%b) 
+
+ 
+
+11. 
+
+>>>print(c+d) 
+
+ 
+
+ 
+
+12. 
+
+>>> print('hello',end='1--','bye',end='2---') 
+
+ 
+
+13. 
+
+>>> print(10,end='@');print(20,30,sep='%%') 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
