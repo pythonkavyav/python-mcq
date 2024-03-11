@@ -1,0 +1,45 @@
+1.print(2**3+4*2) 
+
+2.print(15/3) 
+
+3.can we use exponential ** to string 
+
+4.print(2*3**3*4) 
+
+5.print(6**2,6//2) 
+
+6.print(2%6) 
+
+7.print(4|11,4>>2) 
+
+8.y = 10 
+ 
+
+x = y += 2 
+ 
+
+print(x) 
+
+9. 
+
+x = 100 
+ 
+
+y = 50 
+ 
+
+print(x and y) 
+
+    Print(36/4) 
+
+    Print(-18//4) 
+
+    Print(200-4*2) 
+
+    d/w b/w is and == 
+
+    N=1234 
+
+Sum of the 1st 3 digit 
+
+ 
