@@ -1,0 +1,187 @@
+-->How many keywords in python 
+
+ -->is pass is a keyword 
+
+     
+
+ 
+
+-->can we take keyword as identifier 
+
+   
+
+ 
+
+-->what is the correct way to assign value to variable 
+
+           int a=10 
+
+           a<-10 
+
+           a=10 
+
+           a:=10 
+
+  
+
+ 
+
+-->which of  the fallowing is not True 
+
+          _var='hello' 
+
+           _var_="hello" 
+
+           var_='hello' 
+
+          va r='hello' 
+
+  
+
+ 
+
+-->a='vector' 
+
+Print(a*3*2) 
+
+ 
+
+ 
+
+-->All the Keywords in python are lowercase 
+
+   
+
+ 
+
+-->which of the fallowing can't be a variable name 
+
+           at 
+
+           on 
+
+           def 
+
+           _name_ 
+
+ 
+
+ 
+
+-->x=10 
+
+     x='python' 
+
+     Print(x) 
+
+ 
+
+-->A='hello' 
+
+     a='vector' 
+
+     Print(a) 
+
+ 
+
+-->which of the fallowing is invalid 
+
+         num = 1,000,000 
+
+         x y z = 1 2 3 
+
+         x,y,z = 1, 2, 3 
+
+          x_y_z = 1,000,000 
+
+-->Which of the following are valid Python variable             
+
+        names:  
+
+    ver1.3 
+
+    return 
+
+    home_address 
+
+    route66 
+
+    Age 
+
+    4square 
+
+-->Which of the following are Python reserved words (keywords): * 
+
+    default 
+
+    and 
+
+    goto 
+
+    class 
+
+    None 
+
+ 
+
+-->Which of the following is not a keyword? * 
+
+    open 
+
+    lambda 
+
+    is 
+
+    Except 
+
+ 
+
+-->Is python identifier is a case sensitive 
+
+ 
+
+-->In python if variable is assigned of one type later  
+
+      Can we assign to another data type is possible. 
+
+ 
+
+-->Which of the following is an invalid statement? * 
+
+a_b_c = 100 
+
+abc = 100, 'python' 
+
+a b c = 1 00 
+
+a, b, c = 1, 0, 0 
+
+-->From the execution of the statements  n = 300,  m = n how many objects and references will be created?           
+-->var1=10 
+
+-->var2=30 
+
+-->var3='20' 
+
+Print(var1+var2+var3) 
+
+ 
+
+--> In python variable need to declared before it is assigned 
+
+ 
+
+Can I perform arithmetic operation on string:- 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
