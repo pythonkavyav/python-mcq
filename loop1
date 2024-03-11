@@ -1,0 +1,141 @@
+1.x = ['ab', 'cd'] 
+
+   for i in x: 
+ 
+
+         i.upper() 
+
+    print(x)--->['ab','cd'] 
+
+2. 
+
+    x = ['ab', 'cd'] 
+
+    for i in x: 
+ 
+
+    x.append(i.upper()) 
+ 
+
+    print(x) 
+
+3. 
+
+i = 1 
+ 
+
+while True: 
+
+  if i%0O7 == 0: 
+         
+
+break 
+ 
+
+    print(i) 
+ 
+
+            i += 1 
+
+4. 
+
+for num in range(10, 14): 
+ 
+
+for i in range(2, num): 
+ 
+
+If num%i == 1: 
+ 
+
+          print(num) 
+  break 
+
+5. 
+
+for l in 'Jhon': 
+
+ 
+   if l == 'o': 
+ 
+
+      pass 
+    
+
+print(l, end=", ") 
+
+6. 
+
+for num in range(-2,-5,-1): 
+     
+
+print(num, end=", ") 
+
+7. 
+
+numbers = [10, 20] 
+
+ 
+items = ["Chair", "Table"] 
+ 
+
+ 
+for x in numbers: 
+
+ 
+  for y in items: 
+ 
+
+    print(x, y) 
+
+8. 
+
+i = 0 
+
+while i < 3:  
+
+    print(i)  
+
+    i += 1 
+
+else:  
+
+    print(0)  
+
+9. 
+
+my_string = 'geeksforgeeks' 
+
+for i in range(my_string):  
+
+    print(i)  
+
+10. 
+
+my_string = 'geeksforgeeks' 
+
+for i in range(len(my_string)):  
+
+    my_string[i].upper()  
+
+print (my_string)  
+
+ 
+
+11. 
+
+i = 1 
+
+while True:  
+
+    if i % 3 == 0:  
+
+        break 
+
+    print(i)  
+
+    i + = 1 
+
+ 
+
+ 
